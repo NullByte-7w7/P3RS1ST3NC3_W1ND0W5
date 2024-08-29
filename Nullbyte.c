@@ -11,11 +11,11 @@ int main(void){
             int process_id;
             char dllpath[100];
             char dllpath2[100];
-			HANDLE hProcess;
+	    HANDLE hProcess;
             HANDLE memory;
-			HANDLE memory2;
-			HANDLE thread;
-			HANDLE thread2;
+	    HANDLE memory2;
+	    HANDLE thread;
+	    HANDLE thread2;
 
             // process target
 
